@@ -341,5 +341,5 @@
 //    println("Введите целое число для конвертации в двоичную систему:")
 //    val n = readLine()?.toIntOrNull() ?: return
 //    val b = n.toString(2)
-//    println("Число в двоичной системе: $n: $b")
+//    println("Число $n в двоичной системе: : $b")
 //}
