@@ -169,10 +169,8 @@
 
 
 //Задание 13
-//import javax.swing.JOptionPane
-//
 //fun main() {
-//    JOptionPane.showMessageDialog(null, "привет, мир!", "Я шипперю Рэки и Лангу", JOptionPane.INFORMATION_MESSAGE)
+// println("Приветик,мир!!!")
 //}
 
 
