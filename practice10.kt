@@ -50,9 +50,9 @@
 //    println("Введите число: ")
 //    val a = readln().toInt()
 //    var b = mutableListOf<String>()
-//    for (i in 1..a){
+//    for (i in 1..a) {
 //        when {
-//            i % 3 == 0 && i % 5 == 0 -> b.add("ВизлллБизллл")
+//            i % 15 == 0 -> b.add("ВизлллБизллл")
 //            i % 3 == 0 -> b.add("Физллл")
 //            i % 5 == 0 -> b.add("Бизллл")
 //            else -> b.add(i.toString())
